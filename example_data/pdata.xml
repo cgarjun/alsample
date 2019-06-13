@@ -1,0 +1,22 @@
+<contact>
+    <index name="1">
+        <full_name> Matt </full_name>
+        <address> Apt 1, pacific highway, Artarmon, NSW </address>
+        <phone> +91 - 3209430001 </phone>
+    </index>
+    <index name="2">
+        <full_name> Jack </full_name>
+        <address> Apt 2, pacific highway, Artarmon, NSW </address>
+        <phone> +91 - 3209430002 </phone>
+    </index>
+    <index name="3">
+        <full_name> Ray </full_name>
+        <address> Apt 3, pacific highway, Artarmon, NSW </address>
+        <phone> +91 - 3209430003 </phone>
+    </index>
+    <index name="4">
+        <full_name> Rob </full_name>
+        <address> Apt 4, pacific highway, Artarmon, NSW </address>
+        <phone> +91 - 3209430004 </phone>
+    </index>
+</contact>
